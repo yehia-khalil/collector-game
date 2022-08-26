@@ -16,5 +16,7 @@
   "bugs": {
     "url": "https://github.com/yehia-khalil/collector-game/issues"
   },
-  "homepage": "https://github.com/yehia-khalil/collector-game#readme"
+  "homepage": "https://github.com/yehia-khalil/collector-game#readme",
+  "dependencies": {
+  }
 }
